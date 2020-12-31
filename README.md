@@ -2,5 +2,6 @@
 
 
 
-## [Home Page](http://github.peterjfk.io) 
+## [Home Page](https://peterjfk.github.io/HomePage/)
+ 
  
