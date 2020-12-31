@@ -1,1 +1,8 @@
+title: Projects blogs
 theme: jekyll-theme-cayman
+author: Peter
+email: donnelpicasso@gmail.com
+description: EE projects 
+github_username: peterjfk
+
+markdown: kramdown
