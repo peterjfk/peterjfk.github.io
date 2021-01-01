@@ -1,1 +1,8 @@
-theme: jekyll-theme-cayman
+title: e^2 Projects
+theme: minima
+author: Peter
+email: donnelpicasso@gmail.com
+description: Portfolio of electrical& computer engineering projects
+github_username: peterjfk
+
+markdown: kramdown
